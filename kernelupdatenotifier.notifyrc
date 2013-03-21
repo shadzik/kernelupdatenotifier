@@ -1,0 +1,9 @@
+[Global]
+IconName=help-hint
+Name=kernelupdatenotifier
+Comment=KernelUpdateNotifier
+
+
+[Event/KernelWasUpgraded]
+Name=Kernel was upgraded
+Action=Sound|Popup
