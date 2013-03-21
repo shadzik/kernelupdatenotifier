@@ -1,5 +1,5 @@
 /* PLD Linux Kernel Update Notifier
- * author: Bartosz 'shadzik' Świątek (shadzik@pld-linux.org)
+ * author: Bartosz 'shadzik' Świątek (shadzik@gmail.com)
  * license: GPLv2+
  * (c) 2009
  *
